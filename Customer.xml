@@ -1,0 +1,30 @@
+<records>
+
+	<record>
+	
+	<slno>23</id>
+	<name>John Carter</name>
+	<addmission_date>25/12/2015</addmissiondate>
+	
+    	</record>
+
+	
+	<record>
+	
+	<slno>29</id>
+	<name>Bob Marshal</name>
+	<addmission_date>13/01/1999</addmissiondate>
+	
+    	</record>
+
+	
+	<record>
+	
+	<slno>35</id>
+	<name>Clark Kent</name>
+	<addmission_date>17/06/2005</addmissiondate>
+	
+    	</record>
+	
+</records>
+
